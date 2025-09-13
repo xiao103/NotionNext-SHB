@@ -31,7 +31,7 @@ const CONFIG = {
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '初中',
-  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false， // 推荐文章排序，为`true`时将强制按最后修改时间倒序
+  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
@@ -52,7 +52,7 @@ const CONFIG = {
   // 用户技能图标
   
 
-  HEO_SOCIAL_CARD: false， // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
@@ -62,6 +62,6 @@ const CONFIG = {
   HEO_POST_COUNT_TITLE: '文章数:',
   HEO_SITE_TIME_TITLE: '建站天数:',
   HEO_SITE_VISIT_TITLE: '访问量:',
-  HEO_SITE_VISITOR_TITLE: '访客数:'，  
+  HEO_SITE_VISITOR_TITLE: '访客数:', 
 }
 export default CONFIG
